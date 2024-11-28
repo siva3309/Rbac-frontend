@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rbac-frontend/static/css/main.1538ae08.css",
+    "main.js": "/Rbac-frontend/static/js/main.b428b01f.js",
+    "index.html": "/Rbac-frontend/index.html",
+    "main.1538ae08.css.map": "/Rbac-frontend/static/css/main.1538ae08.css.map",
+    "main.b428b01f.js.map": "/Rbac-frontend/static/js/main.b428b01f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1538ae08.css",
+    "static/js/main.b428b01f.js"
+  ]
+}
