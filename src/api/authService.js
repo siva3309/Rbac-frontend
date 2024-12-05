@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8080';
+const API_URL = 'https://rbac-latest-4.onrender.com';
 
 export const login = (username, password, role) => {
   return axios.post(`${API_URL}/auth/login`, { username, password,role });
