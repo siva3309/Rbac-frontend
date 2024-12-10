@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Rbac-frontend/static/css/main.1538ae08.css",
-    "main.js": "/Rbac-frontend/static/js/main.f530b202.js",
+    "main.js": "/Rbac-frontend/static/js/main.58f6f615.js",
     "index.html": "/Rbac-frontend/index.html",
     "main.1538ae08.css.map": "/Rbac-frontend/static/css/main.1538ae08.css.map",
-    "main.f530b202.js.map": "/Rbac-frontend/static/js/main.f530b202.js.map"
+    "main.58f6f615.js.map": "/Rbac-frontend/static/js/main.58f6f615.js.map"
   },
   "entrypoints": [
     "static/css/main.1538ae08.css",
-    "static/js/main.f530b202.js"
+    "static/js/main.58f6f615.js"
   ]
 }
